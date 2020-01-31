@@ -1,6 +1,7 @@
-# 基于SSM的网上订餐系统的设计与实现
+# 基于SSM的网上订餐系统的设计与实现 - 2714
 
 #### 介绍
+实例完整可运行，如有疑问，请资讯: QQ: 1420527913
 基于SSM的网上订餐系统的设计与实现,网上订餐系统的功能
 根据系统需求的分析，可以通过以下功能来实现网上订餐系统的总体设计。
 （1）菜品信息的发布
@@ -25,21 +26,20 @@
 ④ 数据库的建立、管理与维护。
 
 #### 软件架构
-软件架构说明
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0131/111228_d9ceb30a_420766.png "屏幕截图.png")
 
+#### 运行效果
+开发环境：MyEclipse
+Web服务器：Tomcat
+数据库：MySQL
 
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
+【论文】
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0131/111253_0df389fc_420766.png "屏幕截图.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0131/111305_eba3697d_420766.png "屏幕截图.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0131/111315_b395daa5_420766.png "屏幕截图.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0131/111324_e18912a5_420766.png "屏幕截图.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0131/111335_5a98bc80_420766.png "屏幕截图.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0131/111347_48e3bc4f_420766.png "屏幕截图.png")
 #### 参与贡献
 
 1.  Fork 本仓库
